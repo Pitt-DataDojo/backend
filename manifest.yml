@@ -1,0 +1,5 @@
+---
+applications:
+ - name: datadojobluehack
+   random-route: true
+   memory: 2G
